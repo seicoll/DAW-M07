@@ -1,0 +1,17 @@
+[17-Oct-2016 23:48:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/matriu.php on line 54
+[18-Oct-2016 15:41:11 UTC] PHP Fatal error:  Call to undefined function gmp_fact() in /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php on line 51
+[18-Oct-2016 15:41:11 UTC] PHP Stack trace:
+[18-Oct-2016 15:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:0
+[18-Oct-2016 15:41:11 UTC] PHP   2. FactorialArray() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:63
+[18-Oct-2016 15:46:05 UTC] PHP Fatal error:  Call to undefined function gmp_fact() in /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php on line 51
+[18-Oct-2016 15:46:05 UTC] PHP Stack trace:
+[18-Oct-2016 15:46:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:0
+[18-Oct-2016 15:46:05 UTC] PHP   2. FactorialArray() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:63
+[18-Oct-2016 15:47:35 UTC] PHP Fatal error:  Call to undefined function gmp_fact() in /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php on line 51
+[18-Oct-2016 15:47:35 UTC] PHP Stack trace:
+[18-Oct-2016 15:47:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:0
+[18-Oct-2016 15:47:35 UTC] PHP   2. FactorialArray() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:63
+[18-Oct-2016 15:47:59 UTC] PHP Fatal error:  Call to undefined function gmp_fact() in /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php on line 51
+[18-Oct-2016 15:47:59 UTC] PHP Stack trace:
+[18-Oct-2016 15:47:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:0
+[18-Oct-2016 15:47:59 UTC] PHP   2. FactorialArray() /home/ubuntu/workspace/UF1/A1_Introducció/Practica1/factorial.php:63
